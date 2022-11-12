@@ -1,0 +1,11 @@
+Miembros:
+
+Juan Manuel Restrepo Vela
+
+
+
+Posdata
+
+No pude hacer que no me diera error en la consola cada vez que ingresaba una fecha solo me tenia en cuenta la fecha y no la hora 
+por eso la defini como string y tampoco pude hacer que me leyera los espacios en blanco, por eso hay que pegar los nombre o las 
+direcciones sin dejar espacios para que no me dieria error.

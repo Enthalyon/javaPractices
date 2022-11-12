@@ -1,0 +1,4 @@
+1- Descomprima la carpeta conexionBaseDeDatos y entre en ella.
+2- Entre en la carpeta src
+3- Le apareceran dos carpetas que tienen el codigo del reto 5, el main se encuentra en la carpeta
+   conexionBaseDeDatos, los metodos y las credenciales se encuentran en la carpeta database.

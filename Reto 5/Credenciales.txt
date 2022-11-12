@@ -1,0 +1,6 @@
+Credenciales
+
+USER = "root"
+PASSWORD = ""
+DATABASE URL = "jdbc:mariadb://localhost:3306/ecoDosRuedas"
+    
